@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Philippe DESPLATS</h1>
 <h3 align="center">As I have always been passionate about technology, and more concretely for the last 10 years, I naturally moved into this field and more particularly into digital development and support with the aim of helping companies to become digital.</h3>
 
-- 🔭 I’m currently working on **Starton, DIRUPT and SHPV France**
+- 🔭 I’m currently working on **DIRUPT, SHPV France and Starton**
 
 - 👯 I’m looking to collaborate on **all development projects**
 
-- 💬 Ask me about **TypeScript, React, Nuxt, NestJS**
+- 💬 Ask me about **TypeScript, JavaScript, React, NextJS, AdonisJS, NestJS**
 
 - 📫 How to reach me **philippe@di-rupt.com**
 
